@@ -1,16 +1,16 @@
 # Config files, logs and stuff
 /modules/helper_funcs/temp.txt
-Flare_Robot/elevated_users.json
-Flare_Robot/config.py
-Flare_Robot/config.ini
+Destiny_x_Bot/elevated_users.json
+Destiny_x_Bot/config.py
+Destiny_x_Bot/config.ini
 log.txt
 kangsticker.png
 updates.txt
 start_service.bat
 
 # Session files
-Flare_Robot/*.session
-Flare_Robot/*.session-journal
+Destiny_x_Bot/*.session
+Destiny_x_Bot/*.session-journal
 saitama.session-journal
 *.session
 
