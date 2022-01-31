@@ -2,4 +2,4 @@ build:
   docker:
     worker: Dockerfile
 run:
-  worker: python3 -m Flare_Robot
+  worker: python3 -m Unmei_x_Bot
