@@ -2,4 +2,4 @@ build:
   docker:
     worker: Dockerfile
 run:
-  worker: python3 -m Unmei_x_Bot
+  worker: python3 -m Destiny_x_Bot
