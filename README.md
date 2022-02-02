@@ -10,7 +10,6 @@ Can be found on telegram as [Unmei](https://t.me/Destiny_x_Bot).
 
 The Support group can be reached out to at [Unmei Support](https://t.me/unmei_support), where you can ask for help about [Unmei](https://t.me/Destiny_x_Bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
-Owner bot [Shoto](https://t.me/yameteee_yamete_kudasai) he leaved the telegram for a while he will be back soon.
 
 ## How to setup/deploy.
 
